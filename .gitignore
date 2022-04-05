@@ -6,3 +6,7 @@ node_modules
 package.json
 # 忽略 package-lock.json 檔案
 package-lock.json
+
+style.scss
+
+style.css.map
